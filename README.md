@@ -1,2 +1,2 @@
-# Proyectos-de-progrmaci-n
+# Proyectos-de-progrmacion
 Portafolio de mis aplicativos hechos
